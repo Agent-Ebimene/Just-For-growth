@@ -1,0 +1,5 @@
+Read an intensive research on structuring of a React Project.
+This structure should always follow industry standard for easy collaboration
+Create folders such as Asset,Components,Routes,Layouts etc
+The article with link below was the one read.
+https://www.xenonstack.com/insights/reactjs-project-structure
