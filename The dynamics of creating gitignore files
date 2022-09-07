@@ -1,0 +1,4 @@
+In this personal development activity, I investigated the science of creating gitignore files in projects.
+Projects contain different dependencies that are fequently updated over time.Hence,there is no need to upload these dependencies to 
+github as a simple npm install in the case of React or Node will add all packages that are contained in the package.json file.
+I got this very relevant and applicable development concept from https://www.youtube.com/watch?v=_mdOOgx6fEw
