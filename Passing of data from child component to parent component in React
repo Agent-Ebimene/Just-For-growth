@@ -1,0 +1,9 @@
+Passing of data from parent to child components is pretty straight forward and easy to do for any React developer out there
+But passing data in the opposite is always comes with it, some level of tricks and difficulties.
+The following steps will be able to help out in such scenerios:
+If the case here is to send some data from a form to update the global state
+Write a function in the child component.
+Write a function in the parent component also and pass this function as a prop to the child component.
+Call this function in your child component's function.
+I had to watch a Youtube video to solidify this always tricky task.
+https://www.youtube.com/watch?v=fGaEOESdPVI
