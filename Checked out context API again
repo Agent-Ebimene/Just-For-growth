@@ -1,0 +1,8 @@
+# Using React Context API
+
+- I investigated further on the use cases of React Ccontext APIs.
+- They help to avoid the nebulous task of props drilling
+- They help us to share our state between different components that are wrapped inside the created context
+- Here is a link to a very simple application of context API
+- https://www.youtube.com/watch?v=sP7ANcTpJr8
+- I also checked out an article for better understanding:https://www.freecodecamp.org/news/react-context-for-beginners/
